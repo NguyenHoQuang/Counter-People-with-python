@@ -1,0 +1,4 @@
+ID: 1 crossed going down at Tue Oct 20 10:27:12 2020
+ID: 2 crossed going down at Tue Oct 20 10:27:12 2020
+ID: 4 crossed going up at Tue Oct 20 10:27:21 2020
+ID: 3 crossed going up at Tue Oct 20 10:27:21 2020
